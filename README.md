@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...--->
-- 🔧 Languages and Tools:
+#### 🔧 LANGUAGES AND TOOLS
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![html5 badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
