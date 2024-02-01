@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - Languages and Tools:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white)
+![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![html5 badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![vscode badge](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white)
 ![ae](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
