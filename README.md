@@ -19,6 +19,6 @@
 ![html5 badge](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white)
 #### 🔧 software:
 ![vscode badge](https://img.shields.io/badge/-vscode-007ACC?logo=visual%20studio%20code&logoColor=white)
-![ae](https://img.shields.io/badge/-after%20effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-000000?logo=flask&logoColor=white)
+![ae](https://img.shields.io/badge/-after%20effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
 <!---- ⚡ Fun fact: ...--->
