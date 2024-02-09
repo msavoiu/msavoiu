@@ -14,14 +14,14 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...--->
 #### 💬 programming languages:
-![python badge](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white)
-![cpp badge](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white)
+![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 #### 🔧 tools:
-![vscode badge](https://img.shields.io/badge/-vscode-007ACC?logo=visual%20studio%20code&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-000000?logo=flask&logoColor=white)
-![ae](https://img.shields.io/badge/-after%20effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
+![vscode badge](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white)
+![flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![ae](https://img.shields.io/badge/-After%20Effects%20CC-9999FF?logo=adobe%20after%20effects&logoColor=white)
 #### operating systems:
-![windows](https://img.shields.io/badge/-windows%2010/11-FCC624?logo=linux&logoColor=white)
-![ubuntu](https://img.shields.io/badge/-linux%20(ubuntu)-E95420?logo=ubuntu&logoColor=white)
-![kali](https://img.shields.io/badge/-linux%20(kali)-557C94?logo=kali%20linux&logoColor=white)
+![windows](https://img.shields.io/badge/-Windows%2010/11-0078D4?logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/-Linux%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white)
+![kali](https://img.shields.io/badge/-Linux%20(Kali)-557C94?logo=kali%20linux&logoColor=white)
 <!---- ⚡ Fun fact: ...--->
