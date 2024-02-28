@@ -16,6 +16,7 @@
 #### 💬 Programming Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![bash badge](https://img.shields.io/badge/-BASH-4EAA25?logo=gnu-bash&logoColor=white)
 #### 🔧 Tools:
 ![vscode badge](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white)
 ![flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
