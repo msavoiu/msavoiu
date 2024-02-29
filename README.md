@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...--->
-#### 💬 Programming Languages:
+#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![bash badge](https://img.shields.io/badge/-BASH-4EAA25?logo=gnu-bash&logoColor=white)
