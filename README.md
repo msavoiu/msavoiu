@@ -1,4 +1,4 @@
-👋 Hello! I'm Madeline, a sophomore at CSU Fullerton.
+👋 Hello! I'm Madeline, a second-year Computer Science student at CSU Fullerton.
 
 🐍 Currently, I mainly work with Python, but I'm also dabbling in JavaScript and C++.
 
