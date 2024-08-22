@@ -1,6 +1,13 @@
-👋 Hello! I'm Madeline, a second-year Computer Science student at CSU Fullerton.
+'''python
+class Madeline_Savoiu:
+  def init(self):
+    self.pronouns = 'she/her'
+    self.hobbies = ['coding', 'ethical hacking', 'creative writing']
+    self.languages = ['Python', 'C++', 'HTML/CSS', 'JavaScript']
 
-🐍 Currently I mainly work with Python, but I'm also dabbling in JavaScript and C++.
+<!---👋 Hello! I'm Madeline, a second-year Computer Science student at CSU Fullerton.
+
+<!--- 🐍 Currently I mainly work with Python, but I'm also dabbling in JavaScript and C++.
 
 <!--- ### Hi there 👋
 
