@@ -4,6 +4,7 @@ class Madeline_Savoiu:
     self.pronouns = 'she/her'
     self.hobbies = ['coding', 'ethical hacking', 'creative writing']
     self.languages = ['Python', 'C++', 'HTML/CSS', 'JavaScript']
+```
 
 <!---👋 Hello! I'm Madeline, a second-year Computer Science student at CSU Fullerton.
 
