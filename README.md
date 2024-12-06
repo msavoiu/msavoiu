@@ -1,6 +1,6 @@
 # 🤸‍♀️ Hi, I'm Madeline!
 
-## A second year computer science student with a passion for software engineering
+### A second year computer science student with a passion for software engineering
 
 - 🔭 I’m currently working on:
   * [Arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
