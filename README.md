@@ -1,16 +1,8 @@
-<p align="center">
 # 🤸‍♀️ Hi, I'm Madeline!
-</p>
-
-🐍 Currently I mainly work with Python, JavaScript, and C++.
-
-[![msavoiu github stats](https://github-readme-stats.vercel.app/api?username=msavoiu)](https://github.com/msavoiu/github-readme-stats) --->
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/msavoiu/github-readme-stats)--->
 
 - 🔭 I’m currently working on:
-  * Arrow, a social media platform designed to connect members of the aromantic/asexual community
-  * CMCYouLater, a voice-powered accessibility tool aimed at reducing RSIs for people working in tech
+  * [Arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
+  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing RSIs for people working in tech
 - 📫 You can reach me at _savoiumadeline@gmail.com_
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
