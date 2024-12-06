@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on:
   * [Arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
-  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing RSIs for people working in tech
-- 📫 You can reach me at _savoiumadeline@gmail.com_
+  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing RSI for people working in tech
+- 📫 You can reach me at savoiumadeline@gmail.com
+- ⚡ Fun fact: **Most people think I'm an art major because I've been drawing and making manga since I was 11**
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
@@ -19,4 +20,3 @@
 ![windows](https://img.shields.io/badge/-Windows%2010/11-0078D4?logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/-Linux%20(Ubuntu)-E95420?logo=ubuntu&logoColor=white)
 ![kali](https://img.shields.io/badge/-Linux%20(Kali)-557C94?logo=kali%20linux&logoColor=white)--->
-⚡ Fun fact:
