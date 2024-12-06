@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:
   * [Arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
-  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing RSI for people working in tech
+  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing repetitive strain injuries for people in tech
 - 📫 You can reach me at savoiumadeline@gmail.com
 
 ⚡ Fun fact: **Most people think I'm an art major! I've been drawing and making manga since I was 11, and it's my favorite way to unwind when I need a break from coding.**
