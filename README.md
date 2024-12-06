@@ -1,4 +1,6 @@
+<p align="center">
 # 🤸‍♀️ Hi, I'm Madeline!
+</p>
 
 🐍 Currently I mainly work with Python, JavaScript, and C++.
 
