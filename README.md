@@ -8,6 +8,9 @@
 - 📫 You can reach me at savoiumadeline@gmail.com
 
 ⚡ Fun fact: **Most people think I'm an art major! I've been drawing and making manga since I was 11, and it's my favorite way to unwind when I need a break from coding.**
+
+### My toolkit
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,nodejs,react,express,postgres,flask,pytorch,aws)](https://skillicons.dev)
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
