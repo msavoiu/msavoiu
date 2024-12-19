@@ -1,4 +1,4 @@
-# 🤸‍♀️ hi, I'm Madeline!
+# 🤸‍♀️ hi, i'm madeline!
 
 ### a second year computer science student with a passion for software engineering
 
