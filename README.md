@@ -7,7 +7,7 @@
 <!--  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing repetitive strain injuries for people in tech -->
 - 📫 you can reach me at savoiumadeline@gmail.com
 
-⚡ fun fact: most people think I'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
+⚡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
 
 
 ### 🔧 my toolkit:
