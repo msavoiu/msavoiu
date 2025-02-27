@@ -2,11 +2,10 @@
 
 <!-- ### a second year computer science student with a passion for software engineering -->
 
-- 🔭 i’m currently working on:
+🔭 i’m currently working on:
   * [arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
 <!--  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing repetitive strain injuries for people in tech -->
-- 📫 you can reach me at savoiumadeline@gmail.com
-
+📫 you can reach me at savoiumadeline@gmail.com
 ⚡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
 
 
