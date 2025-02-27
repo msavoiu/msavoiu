@@ -11,7 +11,7 @@
 
 
 ### 🔧 my toolkit:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,nextjs,prisma,nodejs,react,express,postgres,flask,pytorch,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,nextjs,prisma,nodejs,react,express,postgres,flask,pytorch,vercel,aws)](https://skillicons.dev)
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
