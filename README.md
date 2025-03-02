@@ -9,9 +9,10 @@
 
 ⚡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)--->
 
 ### 🔧 my toolkit:
+[![My Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nextjs,prisma,nodejs,react,express,postgres,flask,pytorch,vercel,aws)](https://skillicons.dev)
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
