@@ -3,7 +3,8 @@
 <!-- ### a second year computer science student with a passion for software engineering -->
 
 🔭 i’m currently working on:
-  * [arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community
+  * taking a little break for now...
+  <!--* [arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community -->
 <!--  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing repetitive strain injuries for people in tech -->
 📫 you can reach me at savoiumadeline@gmail.com
 
