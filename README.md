@@ -1,3 +1,5 @@
+[![Moomin](image-path "Optional Title")](https://i.pinimg.com/originals/05/2b/98/052b985876840b722d31ed5900cd589c.gif)
+
 # 🤸‍♀️ hi, i'm madeline!
 
 <!-- ### a second year computer science student with a passion for software engineering -->
