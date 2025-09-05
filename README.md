@@ -1,14 +1,14 @@
 ![](https://i.pinimg.com/originals/05/2b/98/052b985876840b722d31ed5900cd589c.gif)
 
-# hi, i'm madeline! \\_ﾍ(ω｀●)
+# Hi, I'm Madeline! \\_ﾍ(ω｀●)
 
 <!-- ### a third year computer science student with a passion for software engineering -->
 
-### ☛ i’m currently working on:
-  * [thirsty](https://github.com/msavoiu/thirsty), a tool for users to discover and log nearby public water stations worldwide to help reduce reliance on single-use plastic bottles
-### ✉ you can reach me at savoiumadeline@gmail.com
+### ☛ I’m currently working on:
+  * [Thirsty](https://github.com/msavoiu/thirsty), a tool for users to discover and log nearby public water stations worldwide to help reduce reliance on single-use plastic bottles
+### ✉ You can reach me at savoiumadeline@gmail.com
 
-### ㋡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
+### Fun Fact: A lot of people think i=I'm an arts student! I've been drawing and making manga since I was 11, and it's my favorite way to unwind when I need a break from coding.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats) -->
 
