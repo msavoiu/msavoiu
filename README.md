@@ -5,7 +5,7 @@
 <!-- ### a third year computer science student with a passion for software engineering -->
 
 ### ☛ i’m currently working on:
-  * [thirsty](https://github.com/msavoiu/thirsty), a tool to help users discover and log nearby public water stations worldwide and reduce reliance on single-use plastic bottles
+  * [thirsty](https://github.com/msavoiu/thirsty), a tool for users to discover and log nearby public water stations worldwide to help reduce reliance on single-use plastic bottles
 ### ✉ you can reach me at savoiumadeline@gmail.com
 
 ### ㋡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
