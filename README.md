@@ -2,22 +2,20 @@
 
 # hi, i'm madeline! ＼_ﾍ(ω｀●)
 
-<!-- ### a second year computer science student with a passion for software engineering -->
+<!-- ### a third year computer science student with a passion for software engineering -->
 
-☛ i’m currently working on:
-  * taking a little break for now...
-  <!--* [arrow](https://github.com/msavoiu/arrow), a social media platform designed to connect members of the aromantic/asexual community -->
-<!--  * [CMC You Later!](https://github.com/msavoiu/cmc-you-later), a voice-powered accessibility tool aimed at reducing repetitive strain injuries for people in tech -->
-✉ you can reach me at savoiumadeline@gmail.com
+### ☛ i’m currently working on:
+  * [thirsty](https://github.com/msavoiu/thirsty), a tool to help users discover and log nearby public water stations worldwide and reduce reliance on single-use plastic bottles
+### ✉ you can reach me at savoiumadeline@gmail.com
 
-㋡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
+### ㋡ fun fact: a lot of people think i'm an art major! i've been drawing and making manga since i was 11, and it's my favorite way to unwind when i need a break from coding.
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔧 my toolkit:
+## 🔧 my toolkit:
 [![My Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,html,css)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=nextjs,prisma,nodejs,react,express,postgres,flask,pytorch,vercel,aws)](https://skillicons.dev)
+
 <!---#### 💬 Languages:
 ![python badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![cpp badge](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
