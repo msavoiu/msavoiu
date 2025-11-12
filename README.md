@@ -1,8 +1,7 @@
 ![](https://i.pinimg.com/originals/05/2b/98/052b985876840b722d31ed5900cd589c.gif)
 
 # hi, i'm madeline! \\_ﾍ(ω｀●)
-
-<!-- ### i'm a third year computer science student interested in promoting environmentalism and sustainable practices through technology. -->
+i'm a third year computer science student interested in promoting environmentalism and sustainable practices through technology.
 
 ### 💡 i'm currently working on:
   * a chrome extension that searches the web and finds the products you want, secondhand. textile waste is a big problem for our planet, and circular fashion is the solution!
