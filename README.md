@@ -8,9 +8,7 @@
   * [Thirsty](https://github.com/msavoiu/thirsty), a tool for users to discover and log nearby public water stations worldwide to help reduce reliance on single-use plastic bottles
 ### ✉ You can reach me at savoiumadeline@gmail.com
 
-### Fun Fact: A lot of people think I'm an art student! I've been drawing and making manga since I was 11, and it's my favorite way to unwind when I need a break from coding.
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 🔧 my toolkit:
 [![My Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,html,css)](https://skillicons.dev)
