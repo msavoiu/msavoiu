@@ -1,14 +1,15 @@
 ![](https://i.pinimg.com/originals/05/2b/98/052b985876840b722d31ed5900cd589c.gif)
 
-# Hi, I'm Madeline! \\_ﾍ(ω｀●)
+# hi, i'm madeline! \\_ﾍ(ω｀●)
 
-<!-- ### a third year computer science student with a passion for software engineering -->
+<!-- ### i'm a third year computer science student interested in promoting environmentalism and sustainable practices through technology. -->
 
-### ☛ I’m currently working on:
-  * [Thirsty](https://github.com/msavoiu/thirsty), a tool for users to discover and log nearby public water stations worldwide to help reduce reliance on single-use plastic bottles
-### ✉ You can reach me at savoiumadeline@gmail.com
+### 💡 i'm currently working on:
+  * a chrome extension that searches the web and finds the products you want, secondhand. textile waste is a big problem for our planet, and circular fashion is the solution!
+    
+### 📧 you can reach me at savoiumadeline@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msavoiu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ## 🔧 my toolkit:
 [![My Languages](https://skillicons.dev/icons?i=python,js,ts,cpp,html,css)](https://skillicons.dev)
